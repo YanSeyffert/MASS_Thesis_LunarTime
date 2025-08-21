@@ -1,2 +1,2 @@
-# MASS_Thesis_LunarTimeModelling
+# MASS Thesis: LunarTimeModelling
 Material for my MASS Masterthesis on "Relativistic Time Modeling for Lunar Positioning Navigation and Timing"
